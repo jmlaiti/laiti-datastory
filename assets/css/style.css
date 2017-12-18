@@ -1,0 +1,23 @@
+body {
+  font-family: Sans-Serif;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+}
+section#social div,
+section#resources div {
+  min-height: 250px;
+  margin-bottom: 15px;
+}
+section#personal div {
+  background: pink;
+  color: grey;
+  font-size: 18px;
+  img {
+  width: 100%;
+}
